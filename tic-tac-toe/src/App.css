@@ -40,6 +40,18 @@
   display: table;
 }
 
+.status {
+  margin-bottom: 10px;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
+}
 
 
 .hero {
